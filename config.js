@@ -11,13 +11,13 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['201210694713', '👑 لوسيفار 👑', true],
-  ['201210694713', '💎 لوسيفار6٦ 💎', true],
+  ['967772822646', '👑 لوسيفار 👑', true],
+  ['212657317416', '💎 You 💎', true],
   ['994400668447', '🔥 ايتشيغو 🔥', true],
 ];
 
-global.suittag = ['201210694713'];
-global.prems = ['201210694713', '967772822646', '994400668447'];
+global.suittag = ['967772822646'];
+global.prems = ['212657317416', '967772822646', '994400668447'];
 
 global.packname = 'Sticker';
 global.author = '';
@@ -53,7 +53,7 @@ global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
-global.nomorown = '967701530463';
+global.nomorown = '967772822646';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';

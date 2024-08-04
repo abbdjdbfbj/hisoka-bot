@@ -10,7 +10,7 @@ let handler = async (m, { conn }) => {
    }
   })
 
-    conn.sendFile(m.chat, 'https://telegra.ph/file/d54800d1c431f3cc6e06b.jpg', 'video.mp4' , message, m);
+    conn.sendFile(m.chat, 'https://telegra.ph/file/d29342ad65eb4cc732c0a.jpg', 'video.mp4' , message, m);
 };
 handler.help = ['bot'];
 handler.tag = ['dado'];
